@@ -1,0 +1,9 @@
+{
+  "name": "Stanza Bopape Rugby Club1",
+  "description": "A comprehensive community rugby club management platform featuring role-based access, player profiles, coach dashboards, real-time chat, AI bookkeeping, and interactive schedules.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
